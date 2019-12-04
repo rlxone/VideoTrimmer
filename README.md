@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/rlxone/VideoTrimmer/blob/readme/VideoTrimmer.png"/>
+  <img src="https://github.com/rlxone/VideoTrimmer/blob/master/VideoTrimmer.png"/>
 </p>
 
 
